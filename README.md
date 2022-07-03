@@ -51,6 +51,8 @@ Obs.: A Microsoft usava o Controle de Versão do Team Foundation (TFVC). Hoje o 
 - Visual Studio Code Online: <https://vscode.dev/>
 
 ![Miro 02](<img_aulas/miro-02.png>)
+
+![Ex. de Markdown](<img_aulas/Captura de Tela 2022-07-03 às 09.04.51.png>)
 ---
 ## Aula 3
 
@@ -59,8 +61,13 @@ Obs.: A Microsoft usava o Controle de Versão do Team Foundation (TFVC). Hoje o 
 ## Extras
 - [Trello](https://trello.com/)
 - [ListaDeExercicios PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
-- gutoffline/curso-python-2022 (github.com)
+- [GitHib do Guto](<https://github.com/gutoffline/curso-python-2022>)
 - [Guia rápido do Markdown](https://ajuda.gitlab.io/guia-rapido/markdown/markdown/)
 - [Ícones e Imagens (Iconfinder)](https://www.iconfinder.com)
-- Ver notion.so
+- Ver:
+    * notion.so
+    * github.com/microsoft
+- 
+
+
 
