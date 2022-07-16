@@ -71,6 +71,13 @@ Obs.: A Microsoft usava o Controle de Versão do Team Foundation (TFVC). Hoje o 
 
 * Criar uma aplicação em texto (pensando em MVC), de cadastro de clientes 
 
+- Vídeos s/ MVC
+[13:56] GUTO RODRIGO DE SOUZA XAVIER
+    
+(1) Curso de MVC: O que é MVC? | Aula Demonstrativa - YouTube
+
+(1) MVC // Dicionário do Programador - YouTube
+
 ---
 ## Aula 4
 
