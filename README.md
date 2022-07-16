@@ -55,8 +55,17 @@ Obs.: A Microsoft usava o Controle de Versão do Team Foundation (TFVC). Hoje o 
 ![Ex. de Markdown](<img_aulas/Captura de Tela 2022-07-03 às 09.04.51.png>)
 ---
 ## Aula 3
+ 
+* Criar um repositório no GitHub Desktop 
 
+![GitHub Desktop](<img_aulas/github-desktop-2022-07-16.PNG>)
 
+* MVC (Model – View – Controller) 
+    * Padrão 
+    * Como organizar os arquivos e código 
+* Criar uma aplicação em texto (pensando em MVC), de cadastro de clientes 
+
+ 
 ---
 ## Extras
 - [Trello](https://trello.com/)
