@@ -53,6 +53,7 @@ Obs.: A Microsoft usava o Controle de Versão do Team Foundation (TFVC). Hoje o 
 ![Miro 02](<img_aulas/miro-02.png>)
 
 ![Ex. de Markdown](<img_aulas/Captura de Tela 2022-07-03 às 09.04.51.png>)
+
 ---
 ## Aula 3
  
@@ -62,14 +63,22 @@ Obs.: A Microsoft usava o Controle de Versão do Team Foundation (TFVC). Hoje o 
 
 * MVC (Model – View – Controller) 
 
-![MVC](<img_aulas\aula-03\MVC-2022-07-16.PNG>)
+![MVC](<img_aulas/aula-03/MVC-2022-07-16.PNG>)
 
     * Padrão 
     * Como organizar os arquivos e código
+    * Divisão de responsabilidades
 
 * Criar uma aplicação em texto (pensando em MVC), de cadastro de clientes 
 
- 
+---
+## Aula 4
+
+
+---
+## Aula 5
+
+
 ---
 ## Extras
 - [Trello](https://trello.com/)
