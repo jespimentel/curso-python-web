@@ -58,11 +58,15 @@ Obs.: A Microsoft usava o Controle de Versão do Team Foundation (TFVC). Hoje o 
  
 * Criar um repositório no GitHub Desktop 
 
-![GitHub Desktop](<img_aulas/github-desktop-2022-07-16.PNG>)
+![GitHub Desktop](<img_aulas/aula-03/github-desktop-2022-07-16.PNG>)
 
 * MVC (Model – View – Controller) 
+
+![MVC](<img_aulas\aula-03\MVC-2022-07-16.PNG>)
+
     * Padrão 
-    * Como organizar os arquivos e código 
+    * Como organizar os arquivos e código
+
 * Criar uma aplicação em texto (pensando em MVC), de cadastro de clientes 
 
  
