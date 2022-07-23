@@ -89,7 +89,7 @@ Obs.: A Microsoft usava o Controle de Versão do Team Foundation (TFVC). Hoje o 
 ---
 ## Extras
 - [Trello](https://trello.com/)
-- [ListaDeExercicios PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)
+- [Lista de Exercícios Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
 - [GitHib do Guto](<https://github.com/gutoffline/curso-python-2022>)
 - [Guia rápido do Markdown](https://ajuda.gitlab.io/guia-rapido/markdown/markdown/)
 - [Ícones e Imagens (Iconfinder)](https://www.iconfinder.com)
